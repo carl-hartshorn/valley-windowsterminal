@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "background": "#1E1E1F",
+            "black": "#282829",
+            "blue": "#5B89DB",
+            "brightBlack": "#656567",
+            "brightBlue": "#91B7F8",
+            "brightCyan": "#84DCF0",
+            "brightGreen": "#A0E4B2",
+            "brightPurple": "#FACCEE",
+            "brightRed": "#F59EB1",
+            "brightWhite": "#FAFAFA",
+            "brightYellow": "#F5E8B2",
+            "cursorColor": "#64AEF7",
+            "cyan": "#57B6CD",
+            "foreground": "#C5C5C9",
+            "green": "#78B98A",
+            "name": "Valley",
+            "purple": "#DF91CA",
+            "red": "#D66A81",
+            "selectionBackground": "#123C79",
+            "white": "#FAFAFA",
+            "yellow": "#D8C67E"
+        }
+    ]
+}
